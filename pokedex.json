@@ -1,0 +1,1897 @@
+{
+    "pokemon":  [
+        {
+            "id": 1,
+            "num": "001",
+            "name": "Bulbasaur",
+            "total": 318,
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "sp_atk": 65,
+            "sp_def": 65,
+            "speed": 45,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/bulbasaur.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "002",
+                "name": "Ivysaur"
+                },
+                {
+                "num": "003",
+                "name": "Venusaur"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "num": "002",
+            "name": "Ivysaur",
+            "total": 405,
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "sp_atk": 80,
+            "sp_def": 80,
+            "speed": 60,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/ivysaur.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "001",
+                "name": "Bulbasaur"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "003",
+                "name": "Venusaur"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "num": "003",
+            "name": "Venusaur",
+            "total": 525,
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "sp_atk": 100,
+            "sp_def": 100,
+            "speed": 80,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/venusaur.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "001",
+                "name": "Bulbasaur"
+                },
+                {
+                "num": "002",
+                "name": "Ivysaur"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 4,
+            "name": "Charmander",
+            "total": 309,
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_atk": 60,
+            "sp_def": 50,
+            "speed": 65,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charmander.avif",
+            "type": [
+                "Fire",
+                "None"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "005",
+                "name": "Charmeleon"
+                },
+                {
+                "num": "006",
+                "name": "Charizard"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "total": 405,
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "sp_atk": 80,
+            "sp_def": 65,
+            "speed": 80,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charmeleon.avif",
+            "type": [
+                "Fire",
+                "None"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "004",
+                "name": "Charmander"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "006",
+                "name": "Charizard"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "total": 534,
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "sp_atk": 109,
+            "sp_def": 85,
+            "speed": 100,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charizard.avif",
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Water",
+                "Electric",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "004",
+                "name": "Charmander"
+                },
+                {
+                "num": "005",
+                "name": "Charmeleon"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 7,
+            "num": "007",
+            "name": "Squirtle",
+            "total": 314,
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "sp_atk": 50,
+            "sp_def": 64,
+            "speed": 43,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/squirtle.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "008",
+                "name": "Wartortle"
+                },
+                {
+                "num": "009",
+                "name": "Blastoise"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "num": "008",
+            "name": "Wartortle",
+            "total": 405,
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "sp_atk": 65,
+            "sp_def": 80,
+            "speed": 58,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/wartortle.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [
+                {
+                "num": "007",
+                "name": "Squirtle"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "009",
+                "name": "Blastoise"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "num": "009",
+            "name": "Blastoise",
+            "total": 530,
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "sp_atk": 85,
+            "sp_def": 105,
+            "speed": 78,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/blastoise.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [
+                {
+                "num": "007",
+                "name": "Squirtle"
+                },
+                {
+                "num": "008",
+                "name": "Wartortle"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 10,
+            "num": "010",
+            "name": "Caterpie",
+            "total": 195,
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "sp_atk": 20,
+            "sp_def": 20,
+            "speed": 45,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/caterpie.avif",
+            "type": [
+                "Bug"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "011",
+                "name": "Metapod"
+                },
+                {
+                "num": "012",
+                "name": "Butterfree"
+                }      
+            ]
+        },
+        {"id": 11,
+            "num": "011",
+            "name": "Metapod",
+            "total": 205,
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "sp_atk": 25,
+            "sp_def": 25,
+            "speed": 30,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/metapod.avif",
+            "type": [
+                "Bug"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "010",
+                "name": "Caterpie"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "012",
+                "name": "Butterfree"
+                }      
+            ]
+        },
+        {
+            "id": 12,
+            "num": "012",
+            "name": "Butterfree",
+            "total": 395,
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "sp_atk": 90,
+            "sp_def": 80,
+            "speed": 70,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/butterfree.avif",
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "010",
+                "name": "Caterpie"
+                },
+                {
+                "num": "011",
+                "name": "Metapod"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 13,
+            "num": "013",
+            "name": "Weedle",
+            "total": 195,
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "sp_atk": 20,
+            "sp_def": 20,
+            "speed": 50,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/weedle.avif",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "next_evo": [
+                {
+                "num": "014",
+                "name": "Kakuna"
+                },
+                {
+                "num": "015",
+                "name": "Beedrill"
+                }      
+            ]
+        },
+        {
+            "id": 14,
+            "num": "014",
+            "name": "Kakuna",
+            "total": 205,
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "sp_atk": 25,
+            "sp_def": 25,
+            "speed": 35,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/kakuna.avif",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "013",
+                "name": "Weedle"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "015",
+                "name": "Beedrill"
+                }      
+            ]
+        },
+        {
+            "id": 15,
+            "num": "015",
+            "name": "Beedrill",
+            "total": 395,
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "sp_atk": 45,
+            "sp_def": 80,
+            "speed": 75,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/beedrill.avif",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "013",
+                "name": "Weedle"
+                },
+                {
+                "num": "014",
+                "name": "Kakuna"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 16,
+            "num": "016",
+            "name": "Pidgey",
+            "total": 251,
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "sp_atk": 35,
+            "sp_def": 35,
+            "speed": 56,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgey.avif",
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "017",
+                "name": "Pidgeotto"
+                },
+                {
+                "num": "018",
+                "name": "Pidgeot"
+                }      
+            ]
+        },
+        {
+            "id": 17,
+            "num": "017",
+            "name": "Pidgeotto",
+            "total": 349,
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "sp_atk": 50,
+            "sp_def": 50,
+            "speed": 71,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgeotto.avif",
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "016",
+                "name": "Pidgey"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "018",
+                "name": "Pidgeot"
+                }      
+            ]
+        },
+        {
+            "id": 18,
+            "num": "018",
+            "name": "Pidgeot",
+            "total": 479,
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "sp_atk": 70,
+            "sp_def": 70,
+            "speed": 101,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgeot.avif",
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "016",
+                "name": "Pidgey"
+                },
+                {
+                "num": "017",
+                "name": "Pidgeotto"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 19,
+            "num": "019",
+            "name": "Rattata",
+            "total": 253,
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "sp_atk": 25,
+            "sp_def": 35,
+            "speed": 72,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/rattata.avif",
+            "type": [
+                "Normal",
+                "None"
+            ],
+            "weaknesses": [
+                "Fighting"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "020",
+                "name": "Raticate"
+                }      
+            ]
+        },
+        {
+            "id": 20,
+            "num": "020",
+            "name": "Raticate",
+            "total": 413,
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "sp_atk": 50,
+            "sp_def": 70,
+            "speed": 97,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/raticate.avif",
+            "type": [
+                "Normal",
+                "None"
+            ],
+            "weaknesses": [
+                "Fighting"
+            ],
+            "prev_evo": [
+                {
+                "num": "019",
+                "name": "Rattata"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 21,
+            "num": "021",
+            "name": "Spearow",
+            "total": 262,
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "sp_atk": 31,
+            "sp_def": 31,
+            "speed": 70,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/spearow.avif",
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "022",
+                "name": "Fearow"
+                }      
+            ]
+        },
+        {
+            "id": 22,
+            "num": "022",
+            "name": "Fearow",
+            "total": 442,
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "sp_atk": 61,
+            "sp_def": 61,
+            "speed": 100,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/fearow.avif",
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "021",
+                "name": "Spearow"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 23,
+            "num": "023",
+            "name": "Ekans",
+            "total": 288,
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "sp_atk": 40,
+            "sp_def": 54,
+            "speed": 55,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/ekans.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "024",
+                "name": "Arbok"
+                }      
+            ]
+        },
+        {
+            "id": 24,
+            "num": "024",
+            "name": "Arbok",
+            "total": 438,
+            "hp": 60,
+            "attack": 85,
+            "defense": 69,
+            "sp_atk": 65,
+            "sp_def": 79,
+            "speed": 80,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/arbok.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "023",
+                "name": "Ekans"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 25,
+            "num": "025",
+            "name": "Pikachu",
+            "total": 320,
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "sp_atk": 50,
+            "sp_def": 50,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pikachu.avif",
+            "type": [
+                "Electric"
+            ],
+            "weaknesses": [
+                "Ground"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "026",
+                "name": "Raichu"
+                }      
+            ]
+        },
+        {
+            "id": 26,
+            "num": "026",
+            "name": "Raichu",
+            "total": 485,
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "sp_atk": 90,
+            "sp_def": 80,
+            "speed": 110,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/raichu.avif",
+            "type": [
+                "Electric"
+            ],
+            "weaknesses": [
+                "Ground"
+            ],
+            "prev_evo": [
+                {
+                "num": "025",
+                "name": "Pikachu"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 27,
+            "num": "027",
+            "name": "Sandshrew",
+            "total": 300,
+            "hp": 50,
+            "attack": 75,
+            "defense": 85,
+            "sp_atk": 20,
+            "sp_def": 30,
+            "speed": 40,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/sandshrew.avif",
+            "type": [
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "028",
+                "name": "Sandslash"
+                }      
+            ]
+        },
+        {
+            "id": 28,
+            "num": "028",
+            "name": "Sandslash",
+            "total": 450,
+            "hp": 75,
+            "attack": 100,
+            "defense": 110,
+            "sp_atk": 45,
+            "sp_def": 55,
+            "speed": 65,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/sandslash.avif",
+            "type": [
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "prev_evo": [
+                {
+                "num": "027",
+                "name": "Sandshrew"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 29,
+            "num": "029",
+            "name": "Nidoran♀",
+            "total": 273,
+            "hp": 55,
+            "attack": 47,
+            "defense": 52,
+            "sp_atk": 40,
+            "sp_def": 40,
+            "speed": 41,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidoranf.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "030",
+                "name": "Nidorina"
+                },
+                {
+                "num": "031",
+                "name": "Nidoqueen"
+                }      
+            ]
+        },
+        {
+            "id": 30,
+            "num": "030",
+            "name": "Nidorina",
+            "total": 365,
+            "hp": 70,
+            "attack": 62,
+            "defense": 67,
+            "sp_atk": 55,
+            "sp_def": 55,
+            "speed": 56,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidorina.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "029",
+                "name": "Nidoran♀"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "031",
+                "name": "Nidoqueen"
+                }      
+            ]
+        },
+        {
+            "id": 31,
+            "num": "031",
+            "name": "Nidoqueen",
+            "total": 505,
+            "hp": 90,
+            "attack": 92,
+            "defense": 87,
+            "sp_atk": 75,
+            "sp_def": 85,
+            "speed": 76,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidoqueen.avif",
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ice",
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "029",
+                "name": "Nidoran♀"
+                },
+                {
+                "num": "030",
+                "name": "Nidorina"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 32,
+            "num": "032",
+            "name": "Nidoran♂",
+            "total": 273,
+            "hp": 46,
+            "attack": 57,
+            "defense": 40,
+            "sp_atk": 40,
+            "sp_def": 40,
+            "speed": 50,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidoranm.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "033",
+                "name": "Nidorino"
+                },
+                {
+                "num": "034",
+                "name": "Nidoking"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "num": "033",
+            "name": "Nidorino",
+            "total": 365,
+            "hp": 61,
+            "attack": 72,
+            "defense": 57,
+            "sp_atk": 55,
+            "sp_def": 55,
+            "speed": 65,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidorino.avif",
+            "type": [
+                "Poison"
+            ],
+            "weaknesses": [
+                    "Ground",
+            "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "032",
+                "name": "Nidoran♂"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "034",
+                "name": "Nidoking"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "num": "034",
+            "name": "Nidoking",
+            "total": 505,
+            "hp": 81,
+            "attack": 102,
+            "defense": 77,
+            "sp_atk": 85,
+            "sp_def": 75,
+            "speed": 85,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/nidoking.avif",
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ice",
+                "Ground",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "032",
+                "name": "Nidoran♂"
+                },
+                {
+                "num": "033",
+                "name": "Nidorino"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 35,
+            "num": "035",
+            "name": "Clefairy",
+            "total": 323,
+            "hp": 70,
+            "attack": 45,
+            "defense": 48,
+            "sp_atk": 60,
+            "sp_def": 65,
+            "speed": 35,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/clefairy.avif",
+            "type": [
+                "Fairy"
+            ],
+            "weaknesses": [
+                "Steel",
+                "Poison"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "036",
+                "name": "Clefable"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "num": "036",
+            "name": "Clefable",
+            "total": 483,
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "sp_atk": 95,
+            "sp_def": 90,
+            "speed": 60,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/clefable.avif",
+            "type": [
+                "Fairy"
+            ],
+            "weaknesses": [
+                "Steel",
+                "Poison"
+            ],
+            "prev_evo": [
+                {
+                "num": "035",
+                "name": "Clefairy"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 37,
+            "num": "037",
+            "name": "Vulpix",
+            "total": 299,
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "sp_atk": 50,
+            "sp_def": 65,
+            "speed": 65,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/vulpix.avif",
+            "type": [
+                "Fire"
+            ],
+            "weaknesses": [
+                "Water",
+                "Rock",
+                "Ground"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "038",
+                "name": "Ninetales"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "num": "038",
+            "name": "Ninetales",
+            "total": 505,
+            "hp": 73,
+            "attack": 76,
+            "defense": 75,
+            "sp_atk": 81,
+            "sp_def": 100,
+            "speed": 100,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/ninetales.avif",
+            "type": [
+                "Fire"
+            ],
+            "weaknesses": [
+                "Water",
+                "Rock",
+                "Ground"
+            ],
+            "prev_evo": [
+                {
+                "num": "037",
+                "name": "Vulpix"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 39,
+            "num": "039",
+            "name": "Jigglypuff",
+            "total": 270,
+            "hp": 115,
+            "attack": 45,
+            "defense": 20,
+            "sp_atk": 45,
+            "sp_def": 25,
+            "speed": 20,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/jigglypuff.avif",
+            "type": [
+                "Normal",
+                "Fairy"
+            ],
+            "weaknesses": [
+                "Steel",
+                "Poison"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "040",
+                "name": "Wigglytuff"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "num": "040",
+            "name": "Wigglytuff",
+            "total": 435,
+            "hp": 140,
+            "attack": 70,
+            "defense": 45,
+            "sp_atk": 85,
+            "sp_def": 50,
+            "speed": 45,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/wigglytuff.avif",
+            "type": [
+                "Normal",
+                "Fairy"
+            ],
+            "weaknesses": [
+                "Steel",
+                "Poison"
+            ],
+            "prev_evo": [
+                {
+                "num": "039",
+                "name": "Jigglypuff"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 41,
+            "num": "041",
+            "name": "Zubat",
+            "total": 245,
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "sp_atk": 30,
+            "sp_def": 40,
+            "speed": 55,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/zubat.avif",
+            "type": [
+                "Poison",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "042",
+                "name": "Golbat"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "num": "042",
+            "name": "Golbat",
+            "total": 455,
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "sp_atk": 65,
+            "sp_def": 75,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/golbat.avif",
+            "type": [
+                "Poison",
+                "Flying"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "041",
+                "name": "Zubat"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 43,
+            "num": "043",
+            "name": "Oddish",
+            "total": 320,
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "sp_atk": 75,
+            "sp_def": 65,
+            "speed": 30,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/oddish.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Psychic"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "044",
+                "name": "Gloom"
+                },
+                {
+                "num": "045",
+                "name": "Vileplume"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "num": "044",
+            "name": "Gloom",
+            "total": 395,
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "sp_atk": 85,
+            "sp_def": 75,
+            "speed": 40,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/gloom.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "043",
+                "name": "Oddish"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "045",
+                "name": "Vileplume"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "num": "045",
+            "name": "Vileplume",
+            "total": 490,
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "sp_atk": 110,
+            "sp_def": 90,
+            "speed": 50,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/vileplume.avif",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Psychic"
+            ],
+            "prev_evo": [
+                {
+                "num": "043",
+                "name": "Oddish"
+                },
+                {
+                "num": "044",
+                "name": "Gloom"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 46,
+            "num": "046",
+            "name": "Paras",
+            "total": 285,
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "sp_atk": 45,
+            "sp_def": 55,
+            "speed": 25,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/paras.avif",
+            "type": [
+                "Bug",
+                "Grass"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison",
+                "Bug"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "047",
+                "name": "Parasect"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "num": "047",
+            "name": "Parasect",
+            "total": 405,
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "sp_atk": 60,
+            "sp_def": 80,
+            "speed": 30,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/parasect.avif",
+            "type": [
+                "Bug",
+                "Grass"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison",
+                "Bug"
+            ],
+            "prev_evo": [
+                {
+                "num": "046",
+                "name": "Paras"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 48,
+            "num": "048",
+            "name": "Venonat",
+            "total": 305,
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "sp_atk": 40,
+            "sp_def": 55,
+            "speed": 45,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/venonat.avif",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "049",
+                "name": "Venomoth"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "num": "049",
+            "name": "Venomoth",
+            "total": 450,
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "sp_atk": 90,
+            "sp_def": 75,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/venomoth.avif",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "048",
+                "name": "Venonat"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 50,
+            "num": "050",
+            "name": "Diglett",
+            "total": 265,
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "sp_atk": 35,
+            "sp_def": 45,
+            "speed": 95,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/diglett.avif",
+            "type": [
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "051",
+                "name": "Dugtrio"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "num": "051",
+            "name": "Dugtrio",
+            "total": 405,
+            "hp": 35,
+            "attack": 100,
+            "defense": 50,
+            "sp_atk": 50,
+            "sp_def": 70,
+            "speed": 120,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/dugtrio.avif",
+            "type": [
+                "Ground"
+            ],
+            "weaknesses": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "prev_evo": [
+                {
+                "num": "050",
+                "name": "Diglett"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 52,
+            "num": "052",
+            "name": "Meowth",
+            "total": 290,
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "sp_atk": 40,
+            "sp_def": 40,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/meowth.avif",
+            "type": [
+                "Normal"
+            ],
+            "weaknesses": [
+                "Fighting"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "053",
+                "name": "Persian"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "num": "053",
+            "name": "Persian",
+            "total": 440,
+            "hp": 65,
+            "attack": 70,
+            "defense": 60,
+            "sp_atk": 65,
+            "sp_def": 65,
+            "speed": 115,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/persian.avif",
+            "type": [
+                "Normal"
+            ],
+            "weaknesses": [
+                "Fighting"
+            ],
+            "prev_evo": [
+                {
+                "num": "052",
+                "name": "Meowth"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 54,
+            "num": "054",
+            "name": "Psyduck",
+            "total": 320,
+            "hp": 50,
+            "attack": 52,
+            "defense": 48,
+            "sp_atk": 65,
+            "sp_def": 50,
+            "speed": 55,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/psyduck.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "055",
+                "name": "Golduck"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "num": "055",
+            "name": "Golduck",
+            "total": 500,
+            "hp": 80,
+            "attack": 82,
+            "defense": 78,
+            "sp_atk": 95,
+            "sp_def": 80,
+            "speed": 85,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/golduck.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [
+                {
+                "num": "054",
+                "name": "Psyduck"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 56,
+            "num": "056",
+            "name": "Mankey",
+            "total": 305,
+            "hp": 40,
+            "attack": 80,
+            "defense": 35,
+            "sp_atk": 35,
+            "sp_def": 45,
+            "speed": 70,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet/violet/icon/avif/mankey.avif",
+            "type": [
+                "Fighting",
+                "None"
+            ],
+            "weaknesses": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "057",
+                "name": "Primeape"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "num": "057",
+            "name": "Primeape",
+            "total": 455,
+            "hp": 65,
+            "attack": 105,
+            "defense": 60,
+            "sp_atk": 60,
+            "sp_def": 70,
+            "speed": 95,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/primeape.avif",
+            "type": [
+                "Fighting",
+                "None"
+            ],
+            "weaknesses": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "prev_evo": [
+                {
+                "num": "056",
+                "name": "Mankey"
+                }
+            ],
+            "next_evo": []
+        },
+        {
+            "id": 58,
+            "num": "058",
+            "name": "Growlithe",
+            "total": 350,
+            "hp": 55,
+            "attack": 70,
+            "defense": 45,
+            "sp_atk": 70,
+            "sp_def": 50,
+            "speed": 60,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/growlithe.avif",
+            "type": [
+                "Fire"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "059",
+                "name": "Arcanine"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "num": "059",
+            "name": "Arcanine",
+            "total": 555,
+            "hp": 90,
+            "attack": 110,
+            "defense": 80,
+            "sp_atk": 100,
+            "sp_def": 80,
+            "speed": 95,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/arcanine.avif",
+            "type": [
+                "Fire"
+            ],
+            "weaknesses": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "prev_evo": [
+                {
+                "num": "058",
+                "name": "Growlithe"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "059",
+                "name": "Arcanine"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "num": "060",
+            "name": "Poliwag",
+            "total": 300,
+            "hp": 40,
+            "attack": 50,
+            "defense": 40,
+            "sp_atk": 40,
+            "sp_def": 40,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/poliwag.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [],
+            "next_evo": [
+                {
+                "num": "061",
+                "name": "Poliwhirl"
+                },
+                {
+                "num": "062",
+                "name": "Poliwrath"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "num": "061",
+            "name": "Poliwhirl",
+            "total": 385,
+            "hp": 65,
+            "attack": 65,
+            "defense": 65,
+            "sp_atk": 50,
+            "sp_def": 50,
+            "speed": 90,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/poliwhirl.avif",
+            "type": [
+                "Water"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "prev_evo": [
+                {
+                "num": "060",
+                "name": "Poliwag"
+                }
+            ],
+            "next_evo": [
+                {
+                "num": "062",
+                "name": "Poliwrath"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "num": "062",
+            "name": "Poliwrath",
+            "total": 510,
+            "hp": 90,
+            "attack": 95,
+            "defense": 95,
+            "sp_atk": 70,
+            "sp_def": 90,
+            "speed": 70,
+            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/poliwrath.avif",
+            "type": [
+                "Water",
+                "Fighting"
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "prev_evo": [
+                {
+                "num": "060",
+                "name": "Poliwag"
+                },
+                {
+                "num": "061",
+                "name": "Poliwhirl"
+                }
+            ],
+            "next_evo": []
+        }
+    ]
+}         
