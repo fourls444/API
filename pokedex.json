@@ -105,6 +105,7 @@
         },
         {
             "id": 4,
+            "num": "004",
             "name": "Charmander",
             "total": 309,
             "hp": 39,
@@ -137,6 +138,7 @@
         },
         {
             "id": 5,
+            "num": "005",
             "name": "Charmeleon",
             "total": 405,
             "hp": 58,
@@ -170,6 +172,7 @@
         },
         {
             "id": 6,
+            "num": "006",
             "name": "Charizard",
             "total": 534,
             "hp": 78,
