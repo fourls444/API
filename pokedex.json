@@ -45,7 +45,7 @@
             "sp_atk": 80,
             "sp_def": 80,
             "speed": 60,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/ivysaur.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -80,7 +80,7 @@
             "sp_atk": 100,
             "sp_def": 100,
             "speed": 80,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/venusaur.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -114,7 +114,7 @@
             "sp_atk": 60,
             "sp_def": 50,
             "speed": 65,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charmander.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
             "type": [
                 "Fire",
                 "None"
@@ -147,7 +147,7 @@
             "sp_atk": 80,
             "sp_def": 65,
             "speed": 80,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charmeleon.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
             "type": [
                 "Fire",
                 "None"
@@ -181,7 +181,7 @@
             "sp_atk": 109,
             "sp_def": 85,
             "speed": 100,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/charizard.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
             "type": [
                 "Fire",
                 "Flying"
@@ -214,7 +214,7 @@
             "sp_atk": 50,
             "sp_def": 64,
             "speed": 43,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/squirtle.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
             "type": [
                 "Water"
             ],
@@ -245,7 +245,7 @@
             "sp_atk": 65,
             "sp_def": 80,
             "speed": 58,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/wartortle.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
             "type": [
                 "Water"
             ],
@@ -277,7 +277,7 @@
             "sp_atk": 85,
             "sp_def": 105,
             "speed": 78,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/blastoise.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
             "type": [
                 "Water"
             ],
@@ -308,7 +308,7 @@
             "sp_atk": 20,
             "sp_def": 20,
             "speed": 45,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/caterpie.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
             "type": [
                 "Bug"
             ],
@@ -339,7 +339,7 @@
             "sp_atk": 25,
             "sp_def": 25,
             "speed": 30,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/metapod.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
             "type": [
                 "Bug"
             ],
@@ -372,7 +372,7 @@
             "sp_atk": 90,
             "sp_def": 80,
             "speed": 70,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/butterfree.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
             "type": [
                 "Bug",
                 "Flying"
@@ -407,7 +407,7 @@
             "sp_atk": 20,
             "sp_def": 20,
             "speed": 50,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/weedle.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
             "type": [
                 "Bug",
                 "Poison"
@@ -440,7 +440,7 @@
             "sp_atk": 25,
             "sp_def": 25,
             "speed": 35,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/kakuna.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
             "type": [
                 "Bug",
                 "Poison"
@@ -475,7 +475,7 @@
             "sp_atk": 45,
             "sp_def": 80,
             "speed": 75,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/beedrill.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
             "type": [
                 "Bug",
                 "Poison"
@@ -509,7 +509,7 @@
             "sp_atk": 35,
             "sp_def": 35,
             "speed": 56,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgey.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
             "type": [
                 "Normal",
                 "Flying"
@@ -542,7 +542,7 @@
             "sp_atk": 50,
             "sp_def": 50,
             "speed": 71,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgeotto.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
             "type": [
                 "Normal",
                 "Flying"
@@ -576,7 +576,7 @@
             "sp_atk": 70,
             "sp_def": 70,
             "speed": 101,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/pidgeot.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
             "type": [
                 "Normal",
                 "Flying"
@@ -609,7 +609,7 @@
             "sp_atk": 25,
             "sp_def": 35,
             "speed": 72,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/rattata.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
             "type": [
                 "Normal",
                 "None"
@@ -636,7 +636,7 @@
             "sp_atk": 50,
             "sp_def": 70,
             "speed": 97,
-            "avatar": "https://img.pokemondb.net/sprites/scarlet-violet/icon/avif/raticate.avif",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
             "type": [
                 "Normal",
                 "None"
