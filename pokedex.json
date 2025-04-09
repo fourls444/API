@@ -1610,7 +1610,7 @@
             "sp_atk": 65,
             "sp_def": 65,
             "speed": 115,
-            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.pngf",
+            "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
             "type": [
                 "Normal"
             ],
